@@ -4,7 +4,7 @@ draft = false
 date = "2025-08-27"
 image = "Pekingthumbnail.jpeg"
 +++
-**Springe zu:** [Tag 0](#tag-0) · [Tag 1](#tag-1)
+**Springe zu:** [Tag 0](#tag-0) · [Tag 1](#tag-1) · [Tag 2](#tag-2)· [Tag 3](#tag-3)
 
 ---
 ## Tag 0 {#tag-0}
@@ -66,3 +66,10 @@ Und dann… Nein, nehmt mich! Ihn nicht! Er ist doch eine unschuldige Seele auf 
 
 Der Tag endet. Mit Zweifel an allem und Wut auf fast alles.
 
+---
+## Tag 2 {#tag-2}
+
+
+
+---
+## Tag 3 {#tag-3}
