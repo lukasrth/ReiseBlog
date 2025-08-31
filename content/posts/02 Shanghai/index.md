@@ -2,7 +2,7 @@
 title = "02 Shanghai"
 draft = false
 date = "2025-08-31"
-image = "Shanghaithumbnail.jpg"
+image = "Shanghaithumbnail.jpeg"
 +++
 **Springe zu:** [Tag 4](#tag-4)
 
