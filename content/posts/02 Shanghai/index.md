@@ -113,7 +113,41 @@ Nach einer warmherzigen Verabschiedung schlendern wir noch ein letztes Mal zum B
 
 ---
 ## Tag 7 {#tag-7}
-bald
+
+Am Ufer des *Suzhou*, vor der prachtvollen Neubaukulisse der stehenden Gärten von Shanghai - dem *Grand Crystal Code* - erstrecken sich die backsteinernen Fabrikgebäude und stahlmaschigen Lagerhallen der stillgelegten Industriefläche der *Xinhe* Baumwollmühle. Seit 2000 ist die *M50 Moganshan Road* eine Künstlerviertel in dem über 150 Künstler leben, schaffen und ausstellen. 
+
+*„Bamboo, 'not rigid and not soft, not grass and not wood' , not only carries the meta-
+physical artifacts, but also contains the metaphysical spiritual qualities.“*
+
+Im *Shanghai Art Aid Charity Promotion Center* wird Behinderten die Herstellung von Bambusseiden-Gemälden und der Bambus-Seidenschnallen-Porzellantechnik beigebracht. Die Schönheit der innen schwarz oder korall kolorierten Schüsseln liegt im Bambus, dessen Maserung unglaubliche facettenreiche Formspiele erzeugt. 
+
+Über Winkelgässchen und rostbraune Treppengeländer erreichen wir den Antiquitätenladen *AbsoluteArt* der herrlichen Schmuck, elegante europäische Möbel - darunter ein opulenter von Ritterschultern gestemmter Kredenzschrank -  und allerlei hochwertigen Krimskrams anbietet. Alles außerhalb unserer Preisklasse. 
+
+Ein moderner Innenaustatter führt hölzerne Sessel, Couches und Tatamie-Tischchen in minimalistischer Mid-Century-Kaiserpalast Optik. Etliche exquisite Vasen, begeisternde Esstische - die mit etwas weniger stilvollen pinken Plastik-Nielpferdchen -bestückt sind, Sessellandschaften in futuristischer Teehaus Fassung. Kurz das Interieur ist traumhaft und ideal für die heimische Behausung à la *Falling Water* oder besser noch im *Pope-Leighy* Stil. 
+
+*„The weight and texture of existence are neither in the past nor in the future, but in the 'now' we so often over look. Past lives and the life to come, reality and ideals, holding fast to the way and responding to the moment, care and constraint all converge to reveal the true meaning of every moment of 'Being Here.'”*
+
+Heikle Heidegger Exegesen in der kleinen Fotogallerie Peter Liu's mit dem Titel *Dasein*. Jenseits der Textvorlage finden sich interessante Ablichtungen der von Gitterfenstern umrahmten Fensterfassaden (*Eisenfenster*) mittelständischer Wohngebäude - die vorallem das Beijinger Stadtbild prägen. Das Gitterphänomen bleibt uns Rätselhaft, es handelt sich dabei wohl um ein Relikt der wirtschaftlichen Aufstiegsjahre Jahre Chinas, in dene die wachsende Ungleichheit mit einem Zuwachs an Einbrächen einherging. 
+
+Hippe Kaffes in Hinterhöfen, eine romantische, Kunstglaserei, ein Florist der die eleganten Zimmerpflanzen stellt, die den unverputzten Gassen den letzten Feinschliff verpassen. Eine Galerie stellt Gemälde aus die schrille Neonkulissen mit pittoresken Szenen aus Peking-Opern verschwimmen lassen: *Cats on Midsummer Nights*. Koi-artige Goldfische schwärmen durch Wannen, Vasen und Petriglas große Behältnisse. Einbruch der Wirklichkeit. 
+
+Den eigentlichen Höhepunkt der Erkundungen  - mindestens mal für Toni - bildet die Galerie Yaohua Wang's. Ein Zyklus Astral wirkender Lotusblüten in dickem Pastel nimmt die Eintretenden sofort ein. Doch erst die rundliche  Empfangsdame führt uns richtig in das Werk Wang's ein. Mit hektischen Gesten bedeutet sie uns zunächst die Pissaro'esken Landschaften auf kleinformatigen Drucken zu betrachten, die um das Landhaus des Künstlers entstanden und bereits dessen stilistische Vielfältigkeit andeuten. Sie schildert uns frenetisch die Hintergründe einer Reihe von Porträts die wieder eine ganze andere Feder vermuten lassen! Die mit Schaum vor dem Mund in *Tongues* deklamierende Grinsebacke entpuppt sich als Tochter des Meisters. Wir blättern in einer Mappe originaler Kollagen die der Künstler auf halbjährigen Reisen in Europa und Nordamerika um 2019 angefertigt hat: verzerrte Trump Karikaturen nebst bunt kolorieren Corona-Viren auf Boulevardzeitschrift-Fetzen; expressionistische Bleistift Radierungen wahnhafter Fratzen auf Apple und Calvin Klein Verpackungen; gestochen scharfe Skizzen westlicher  Perversionen auf McDonalds Tüten; angsterfüllte Blicke blitzen aus dunklen Augenhöhlen hinter aufgeklebter FFP2-Maske. Damit ist der Kipppunkt für Toni erreicht, alles alltägliche schält sich von der bedrückten Seele, Ich und Welt sind im Einklang; es stellt sich eine ästhetische Erfahrung ein. 
+
+Dieser Mann ist ein Gesamtkunstwerk. 
+
+Mit signierter Mappe unterm Arm grinsend verabschieden. 
+
+Noch drei Stunden bis zum Zug. Ein Teehausbesuch – den eigentlichen Exkurs zum Tee sparen wir uns auf, bis wir in Yunnan, an seinen Ursprüngen, ankommen. Mit kalten Füßen schnell zum Bahnhof. 
+
+Am Bahnhof erwartet uns ein großer Sicherheitscheck. Rafa wird als Erster herausgefischt. Verdacht: Messer. Der CT-Scanner hatte Alarm geschlagen, die Security den Atem angehalten – „Déguó,  lǐwù“ und am Ende passiert eine Spätzlereibe die Kontrolle, die sich als harmloses schwäbisches Kulturgut entpuppt.
+
+Auch Toni bleibt nicht verschont. Sein treuer Weggefährte – die 30.000 mAh, 66-Watt-Powerbank mit integrierter Baustrahlerfunktion – erregt das Misstrauen. Erst El Jefe selbst, ein Mann von unbeschränkter Kommandogewalt im NYPD-T-Shirt, konfrontiert Toni mit der Gleichung P · h = (mAh · U) · 10⁻³. Er ist eine Gestalt von überragender Präsenz, organisiert im Handumdrehen den Versand: Unser Hostel in Xi’an ist bereits informiert, die Powerbank per Express auf dem Weg.
+
+Lukas’ Besteck jedoch hatte weniger Glück. Sein Traum vom Besteckset aus deutschem Edelstahl liegt nun in Shanghai zur Abholung bereit.
+
+Nun aber schnell zum Nachtzug. Sechserkabine, Krabbengeruch, 1,80-€-Abendessen aus dem Bordbistro. Vor uns liegen knapp 15 Stunden Fahrt.
+
+Bis morgen.
 
 
 [^1]: In China leben ca. 38-58 Mio. protestantische Christen (davon mind. die Hälfte in offiziellen Hauskirchen) und ca. 10 Mio. katholische Christen (offizielle und romtreue Untergrundkirche), ca. 6 Mio. nach offiziellen Zahlen (Wenzler-Teuber 2020, 2022). Das Christentum ist inzwischen sowohl auf dem Land als auch in den Städten ähnlich beliebt. Zugleich stellt das Thema Religion weiterhin eine der besonders sensiblen Fragen dar. Eine aktive Religionspolitik wird von staatlichen „Religionsbüros“ auf zentraler und Provinzebene durchgeführt und überwacht. Die Religionsgemeinschaften müssen nach den Durchführungsregeln („Vorschriften für religiöse Angelegenheiten“, zongjiao shiwu tiaoli 宗教事物条例) Versammlungsorte und Personal registrieren. Religiöses Personal wird neben einer religiösen Ausbildung auch ideologisch geschult.
