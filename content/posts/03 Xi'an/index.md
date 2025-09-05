@@ -4,7 +4,10 @@ draft = false
 date = "2025-09-04"
 image = "Xianthumbnail.jpg"
 +++
+**Springe zu:** [Tag 8](#tag-8)· [Tag 9](#tag-9)
 
+---
+## Tag 8 {#tag-8}
 
 
 Xi'an ist wohl nicht mehr so *Tier 1*.  Das bezahlen mit der Karte funktioniert nicht in der Metro, Alipay fordert die Authentifizierung der Identität, wir müssen uns wie Hinterwälder ein Ticket ziehen. Der Weg zum Hostel, in dem wir für 1,30€ nächtigen werden, eröffnet die ersten Einblicke in fahnendrapierte Marktgässchen hinter Torbögen - *Pilou's* - im Tang-Stil. Neo-chinesische Gegenwartsbauten integrieren die oft ziegelgedeckten Walmdächer mit geschwungenen Traufen, die an alte Pagoden und Tempel erinnern. Die Bleibe selbst liegt abseits der Hauptstraße, in einem niedrig Bebauten von Wäscheleinen behangenem Gässchen versteckt. Die Hippe Rezeption in Café Format aus dem softe amerikanische Produktionen erklingen, verspricht eine top Einrichtung. Unser Zimmer erreichen wir indem  wir durch einen Anreiner stapfen. Der überpünktliche Nachtzug hat uns zwar ausgeruht, aber klebrig und miefend ausgespuckt und so steuern wir gleich die duschen an… hinter der schäbigen Klemm-Tür lauert eine grässliche Abort-Brausekopf Chimäre. Ihre Höhle ist rund um das Plumsloch mit Ziesenstümmeln bestückt, Stuhlgang Spritzer lassen vermuten das *Pollock* hier sein Atelier eingerichtet hat. Ein mit milchweißem Wasser gefüllter Müllkrug treibt Kot-Schwimmer an die Oberfläche. 
@@ -86,3 +89,5 @@ Auch in Xi'an drängen sich uns wieder Bilder von Mensch-Hund Interaktionen auf.
 „we’re going to come to kashish danzin“
 
 
+---
+## Tag 9 {#tag-9}
