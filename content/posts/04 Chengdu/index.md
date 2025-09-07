@@ -1,9 +1,9 @@
 +++
 title = "04 Chengdu"
-draft = true
+draft = false
 date = "2025-09-06"
-image = "Chengduthumbnail.jpg"
+image = "Chengduthumbnail.jpeg"
 +++
 
-TEXT
+...
 
