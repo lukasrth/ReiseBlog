@@ -4,13 +4,17 @@ draft = false
 date = "2025-09-07"
 image = "Emeithumbnail.jpg"
 +++
+**Springe zu:** [Tag 11](#tag-11)· [Tag 12](#tag-12) 
 
+---
 <iframe class="alltrails" 
     src="https://www.alltrails.com/widget/map/baoguo-temple-mount-emei-efd5a10?u=m&sh=lo3glv" 
     width="100%" height="400" frameborder="0" scrolling="no" 
     marginheight="0" marginwidth="0" 
     title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running">
 </iframe>
+---
+## Tag 11 {#tag-11}
 
 In der Frühe machen wir uns über den Chengdu-Dong-Bahnhof auf in Richtung Emei. Vor dem Fenster beginnen sich abwechselnd urtümliche wie landwirtschaftliche Naturpanoramen aufzutürmen. Tiefgrün bewachsene Berge reihen sich aneinander wie abgeflachte Zuckerhüte. Hohe, spindeldürre, bambusblättrige Eichen wehen im Wind. Scheinbar unberührtes, ärmliches Bauernleben neben prunkvoll-sterilen Villen, die aus der Urwelt herausbrechen. Heuballenhäufungen in pittoresken Tälern beschwören Monets Heuschober-Zyklus aus dem fernen Giverny herauf.
 
