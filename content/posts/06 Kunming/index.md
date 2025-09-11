@@ -4,6 +4,7 @@ draft = false
 date = "2025-09-10"
 image = "Kunmingthumbnail.jpeg"
 +++
+*Springe zu:** [Tag 13](#tag-13)·
 
 
 Am Morgen empfängt uns Kunming im Regen. Wir leihen uns E-Mopeds und stürzen uns in den quirlig-chaotischen Straßenverkehr der Stadt. Selbst Tao Yu scheint die genauen Verkehrsregeln nicht zu kennen, und so biegen wir quer auf eine vierspurige Kreuzung ab. Von allen Seiten drängen die Autos auf uns ein, wir schlängeln uns an den hupenden Ungetümen vorbei und erreichen die Mitte, wo ein Verkehrspolizist uns gelassen durchwinkt. Es ist ein reines Gedrängel aus Fahrrädern, Motorrollern, Autos und Fußgängern, das jedoch erstaunlich harmonisch funktioniert. Jeder fährt, wie er will, aber alle scheinen gleichzeitig auf alles aufzupassen. Für den Partizipierenden wird es zum geordneten Chaos. So sind Zebrastreifen auch kein Freifahrtschein für Fußgänger, denen sie ohnehin nicht ausschließlich vorbehalten sind, sondern lediglich der potenzielle Ort einer Straßenüberquerung – unter der Bedingung, dass man gewillt ist, sich den anstürmenden Gefährten wie ein Torero entgegenzustellen.
