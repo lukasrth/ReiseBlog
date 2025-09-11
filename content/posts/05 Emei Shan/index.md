@@ -69,6 +69,6 @@ Unterhalb der Tempelanlage zeigt sich der Kontrast: ein Markt, in dem Fleischger
 Ein Bus bringt uns zurück zum Bahnhof, wo wir unser Gepäck verstauen, bevor wir zum nächsten Bahnhof weiterfahren – ein kleiner Bau an einem Schienenkreuz, auf zwei Ebenen verteilt, mit riesigem
 Vorplatz, vor dem ein leerer gepanzerter Polizeiwagen demonstrativ parkt. Am Ticketschalter sorgt die Sprachbarriere für Ungeduld; statt die Automaten zu nutzen (für ausländische Pässe gesperrt), drängen die Reisenden sich hinter uns zur einzigen Schalterdame. 
 
-Wir haben noch ein paar Minuten, bis Lukas aufbricht. Die ganze Nacht wird er brauchen, um Peking zu erreichen. Ein Platz in unseren Herzen ist ihm gewiss. **Wir grüßen dich!** . Auch wir steigen bald in den Zug nach Kunming.
+Wir haben noch ein paar Minuten, bis Lukas aufbricht. Die ganze Nacht wird er brauchen, um Peking zu erreichen. Ein Platz in unseren Herzen ist ihm gewiss. **Wir grüßen dich!** Auch wir steigen bald in den Zug nach Kunming.
 
 Süd-Sichuan gleitet im Abendlicht an uns vorbei – eine Landschaft aus fruchtbaren Flussbecken, schroffen Karstbergen und endlosen Terrassen, die einen weiteren Besuch wert scheint. Spät am Abend erreichen wir Kunming. Ein DiDi bringt uns zu Tao Yu, unserem Gastgeber für die nächsten drei Tage. Toni und Rafa hatten ihn letztes Jahr in Jerewan kennengelernt; er lud sie damals ein, ihn in China zu besuchen. Zu Beginn braucht ihr nur zu wissen, dass er 59 Jahre alt ist, Yogi, Lebemann – und bereits über 100 Länder bereist hat. 
