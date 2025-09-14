@@ -1,9 +1,12 @@
 +++
 title = "07/08/09 West Yunnan"
-draft = true
-date = "2025-09-14"
+draft = false
+date = "2025-09-13"
 image = "Yunnanthumbnail.jpg"
 +++
+**Springe zu:** [Tag 16](#tag-16)·
+
+## Tag 16 {#tag-16}
 
 
 5:35 Uhr Ankunft an der Dali Railway Station. Vor dem Bahnhofsportal stand die Nacht, verschlafen und kalt. Geschlossene Rezeption, erkennender Passant. Kenntnis hilft uns weiter. Wenn erkennende Kenntnis handelt dann wird die halbe Straße geweckt, damit wir einchecken können, ohne für die Nacht zu zahlen und uns mit zwei weiteren Stunden Schlaf begnügen, ehe der Tagesausflug nach Weishan beginnt. 
