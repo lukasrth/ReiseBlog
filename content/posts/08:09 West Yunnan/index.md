@@ -109,11 +109,17 @@ Da erscheint eine ältere Dame in traditioneller Bai-Kleidung [^4] – rote West
 Nach einer intensiven Verabschiedung nehmen wir ein DiDi-Taxi zum *Xinhua Bai Ethnic Tourist Village* (新华白族旅游村) am Rande des Caohai-Feuchtgebiets. Dort pflegt man seit langem eine Tradition der Silberschmiedekunst – doch statt schwerer Serviersets stehen hier vor allem filigrane Teekannen und Becher im Mittelpunkt. An Strassenbüschen erste Schmetterlinge. Wir biegen rechts Richtung See ab und laufen an den ersten Reisfeldern vorbei, die wie eine grün-goldene Decke über das Schwemmland wirken. Eltern bringen ihren Kindern hier das Fischen bei. Wir erspähen Krebse zwischen Reisbüscheln. Am Wegesrand reifen zahlreiche Chilischoten. Bisher hatte uns die Schärfe in China eher enttäuscht. Auch diese Schoten lassen sich roh essen und macht Rafas tägliche Birds-Eye-Kur glatt obsolet. 
 
 Dörfler hämmern Silberweiß,
+
 an jedem Ort ein anderer Reis.
+
 Felder spinnen still ihr Gold,
+
 doch Macht der Sichel keinen zollt,
+
 längst rote Erde überrollt.
+
 Wie fruchtbar bleibt noch dieser Kreis,
+
 wenn jeder einem jeden gleicht.
 
 Wir erreichen ein Dorf am Ende des Sees – ein Zusammensetzung aus halbfertigen Neubauten und einigen bereits vollendeten Häusern im traditionellen Stil. Doch lange verweilen wir nicht, denn schon ruft der Zug. Zwei Stunden später rollen wir in *Xiangelila* ein, das tibetische Städtchen auf 3.200 Metern Höhe. Nach dem Check-in bleibt noch Zeit für einen kurzen Spaziergang durch die Altstadt. Auf einem zentralen Platz tanzen rund 150 Leute, von Jung bis Alt, den *Gorchom* – einen traditionellen tibetischen Kreistanz. Zum Abschluss noch eine Pizza – im Gegensatz zu den Einheimischen allerdings ohne Handschuhe. Rafa probiert dazu getrocknetes Yakfleisch. Und so klingt der Tag in dünner Höhenluft aus.
