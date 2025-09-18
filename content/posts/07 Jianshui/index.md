@@ -30,9 +30,13 @@ Brennende Tafeln, erleuchtete Reklamen,
 mauerne Ohren in der letzten Enklave.
 
 Zerstörte Landschaft vor Tempelvisage,
+
 synthetische Klage der Agitatoransage.
+
 Rußene Wolken durchkämmen den Bergfried,
+
 goldene Segel erfüllen den Endsieg.“
+
 (Anonym, **Verlorener Horizont**)
 
 Aber mehr dazu morgen. Heute gibt es noch etwas Erfreuliches zu erzählen. Denn auch *Macondo* ist Name eines fiktionalen Ortes, der dem Geiste eines Literaten entsprungen ist – dem des Gabriel García Márquez. Der Lesekreis Tonis, den er mit seiner Toscha und seiner Freundin Amelie unterhält, trägt den Namen Macondo-Kreis, aufgrund der gemeinsamen Lektüre der *100 Jahre Einsamkeit*. Und so erfreut es uns über alle Maßen, eine Bar auszumachen, die wie folgt um sich wirbt: *„Macondo Bar. Salute loneliness, modernism and Márquez“*. Wir folgen dem Aufruf und entrinnen der einsamen Scheinlandschaft. Über der Bar hängt ein Aktportrait, das John Lennon und Yoko Ono in Löffelchenposition schmusend zeigt. Im Bücherregal gesellt sich Pessoa, Tarkowski und Klimt. Der Anblick hebt das schwere Herz. Die Live-Musik wundervoll vorgetragen, obzwar ohrenbetäubend laut. Der günstigste Hausbrand, eine Art brotiger Grappa, in einem Väschen serviert, besänftigt jedoch die Trommelfelle. Louis Armstrong, Leonard Cohen und Bob Dylan, immer wieder mit chinesischen Intermezzi. Warmes Licht tiefhängender Lampenschirme, bläuliche Qualmarabesken. Es fällt noch ein paar Mal der Name Descartes, Kant, Hegel, Heidegger, Plessner … die Privatgelehrten versickern langsam in die Sessel und entschwinden schließlich in die wohlig kühle Nacht.
