@@ -4,6 +4,9 @@ draft = false
 date = "2025-09-14"
 image = "Shangrila.jpg"
 +++
+**Springe zu:** [Tag 19](#tag-19)·[Tag 20](#tag-20)
+
+## Tag 19 {#tag-19}
 
 8:30 Uhr, Busbahnhof im Wolkenmeer. Der Bus, der uns zum *Pudacuo National Park* überführen soll, ist geisterhaft leer. Dennoch werden wir von unserem kleinen Tibeter ins Gefährt gescheucht und fahren los. Ein kurzer Zwischenstopp am Straßenrand beruhigt. Jetzt füllt sich der Bus mit overdresseden Wanderern, deren Ausrüstung eine Everest-Besteigung vermuten ließe. Plötzliches Rascheln eines Mikrofons, dann donnern die Ansagen los: Jetzt … jetzt sofort müssen die Tickets für die Rückfahrt erstanden werden! Dann legen wir ab, und der Vorhang einer albtraumhaften Peking-Oper-Tortur lüftet sich.
 
@@ -43,5 +46,5 @@ zungen und Aktivitäten möglich sind. Die Kontrollzone soll vom Grad der anthro
 Pufferzonen der früheren Naturschutzgebiete bzw. Biosphärenreservaten entsprechen (Wang et al. 2021). (China Geographien einer Weltmacht, Sina Hardaker, Peter Dannenberg (Hrsg.))
 
 
-
+## Tag 20 {#tag-20}
 
