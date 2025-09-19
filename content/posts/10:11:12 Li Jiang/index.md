@@ -2,7 +2,7 @@
 title = "11 Li Jiang"
 draft = false
 date = "2025-09-17"
-image = "Lithumbnail.jpg"
+image = "Lithumbnail.JPG"
 +++
 **Springe zu:** [Tag 21](#tag-21)·[Tag 22](#tag-22)·[Tag 23](#tag-23)
 
