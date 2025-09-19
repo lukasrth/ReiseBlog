@@ -1,9 +1,12 @@
 +++
-title = "10 Li Jiang"
+title = "11 Li Jiang"
 draft = false
 date = "2025-09-17"
 image = "Lithumbnail.jpg"
 +++
+**Springe zu:** [Tag 21](#tag-21)·[Tag 22](#tag-22)·[Tag 23](#tag-23)
+
+## Tag 21 {#tag-21}
 
 Bei der Bettbelegung kommt Toni das große Privileg zu, zwei Röcheltapiren bei ihrem nokturnen Walten zu lauschen. Unter ihm: der König unter den Schnarchkünstlern, ein opulentes Exemplar. Donnerndes Grollen bisher unvorstellbarer Ausmaße – selbst für einen so geübten Insomnisten. Ohne Frage das lauteste Geräusch, das je ein Lebewesen auf Erden hervorgebracht hat. Schräg gegenüber ein weniger spektakuläres Knattern, das jedoch ebenfalls gewaltige Ausmaße annehmen kann, wenn es nicht gerade durch das Tönen des großen Anderen aus seinem Schlummer gerissen wird. Der röchelnde Todeskampf ist gegen 2 Uhr schließlich so unerträglich, dass sämtliche Banknachbarn erwachen und Toni dem entblößten Hängebauch der Bestie einen harten Schnipser verpasst. Es bleibt ohne Effekt, also: aufstehen, Nacht durchmachen.
 
@@ -29,3 +32,6 @@ Toni und Rafa entscheiden sich für ein gegrilltes Huhn; gemeinsam bestellen wir
 
 Eine gute Dreiviertelstunde später erscheinen die Auberginen: gewürzt mit einer pikanten, pommessalzähnlichen Mischung, bedeckt von einer ganzen Knolle gehackten Knoblauchs. Das Gemüse ist schmackhaft. Nach einer Stunde schließlich steht auch das Huhn, nach tausendfacher Wendung über der Glut, zerstückelt vor uns. Das Fleisch ist zart, beinahe wie pollo fino, doch wieder ist es dieselbe Würze, die das Abendessen in eine gewisse Einseitigkeit drängt.
 
+## Tag 22 {#tag-22}
+
+## Tag 23 {#tag-23}
