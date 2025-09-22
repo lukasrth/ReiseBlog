@@ -2,7 +2,7 @@
 title = "12/13 Perlflussdelta"
 draft = false
 date = "2025-09-21"
-image = "HongKongthumbnail.jpg"
+image = "HongKongthumbnail.JPG"
 +++
 **Springe zu:** [Tag 23](#tag-23)
 
