@@ -4,6 +4,9 @@ draft = true
 date = "2025-09-21"
 image = "HongKongthumbnail.jpg"
 +++
+**Springe zu:** [Tag 23](#tag-23)
+
+## Tag 23 {#tag-23}
 
 Heute heißt es Abschied nehmen von der Karstregion. Das Hotel gewährt uns ein Late Check-out bis 13 Uhr – ein kleiner Gefallen, den Toni und David sofort in den Fitnessraum investieren. Rafa zieht los in die matschige Idylle der Felder, auf der Suche nach Düngemethoden und Pestiziden. Auf Trampelpfaden stolpernd durch Lotusfelder, Zitrusbäumchen und wuchernde Bohnenranken. Die Plastikverpackungen an den Pausenplätzen der Bauern haben längst ein zweites Leben als Regenplane oder Teppich begonnen.
 
