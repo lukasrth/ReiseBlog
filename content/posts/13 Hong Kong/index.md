@@ -96,7 +96,48 @@ Nieselregen plätschert sanft auf die Überführungen, durch die wir ewig lange 
 
 ## Tag 25 {#tag-25}
 
+Wir nehmen die Metro und steigen in *Mong Kok* aus – jenem Stadtviertel, das als das dichteste und intensivste gilt. Mong Kok ist Hongkong in konzentrierter Form: alles Gute und alles Anstrengende dieser Stadt zugleich.
 
+Mehrstöckige Wohn- und Geschäftsgebäude aus den 1950er bis 1980er Jahren reihen sich dicht aneinander, unten Geschäfte und Garküchen, darüber Stockwerk auf Stockwerk kleine Wohnungen mit schmalen Balkonen, Wäsche und Klimaanlagenkästen. Viele Bauten sind schlichte Betonblöcke, funktional, daneben neuere Hochhaustürme, die das Straßenbild überragen. Viele Blocks bieten Durchgänge im Erdgeschoss.
+
+Charakteristisch sind die Kaufhäuser, die sich jeweils auf eine einzige Warenkategorie spezialisieren: Ein Gebäude nur für Aquaristik, ein anderes für Fotografie, daneben mehrere Stockwerke ausschließlich mit Sneaker-Shops oder Handy-Zubehör. Jedes dieser Häuser ist vertikal organisiert – kleine Läden stapeln sich übereinander, verbunden durch enge Rolltreppen, sodass man beim Aufstieg durch die Etagen eine Art Waren-Universum betritt, das einem einzigen Thema geweiht ist. Alles ohne Fenster. 
+
+Für das Frühstück folgen wir dem Michelin Guide ins *Twins Liang Pi Ltd.*. Wir bestellen breite Glasnudeln mit Onsen-Ei, Okra und krossen Bohnen. Doch die Vorfreude schlägt schnell in Enttäuschung um: das gesamte Gericht schwimmt in Sichuanpfeffer, dessen betäubende Schärfe alles dominiert. Für Toni endet das Experiment schon nach einem Bissen. Die Kellnerin, halb fürsorglich, reicht ihm ein tausendjähriges Ei – eine Erfahrung für sich.
+
+Auf der Suche nach einem Café, um unsere Blogs nachzuholen, stoßen wir auf Espressi für 4,50 € – ein Preis, den wir nicht bereit sind zu zahlen. Stattdessen zweiter Frühstück-Versuch für Toni in einem kleinen Diner. David und Rafa begnügen sich mit einem Americano – serviert in den typischen „Black and White“ Hongkonger Keramiktassen, mit „Frisian Dairy Cow“ die mehr Charakter haben als der Kaffee selbst.   
+
+Mittlerweile schüttete es. Rafa zieht es noch ins *Sim City*, ein fünfstöckiges Kaufhaus, das sich ganz dem Handel mit neuen und gebrauchten Kameras, Objektiven und Zubehör verschrieben hat. Die Preise sind hier ungewöhnlich transparent: sie werden über eine Gebotsplattform offengelegt, sodass jeder Kunde genau nachvollziehen kann, wo und zu welchem Preis er welches Stück erwerben kann. Hinter den Glasvitrinen funkeln Schätze der Fotografiegeschichte – restaurierte Leitz- und Leica-Modelle, voll funktionstüchtige Hasselblad 500er daneben das Flaggschiff: die X2D II 100C. Zudem die gesamte Palette japanischer Hersteller. Durch jeden Sucher möchte man zumindest für einen Augenblick sehen. Für Liebhaber ein Paradies, das Herz schlägt hier unweigerlich höher, so dass ein Kauf ein Biss in den Apfel gleicht. 
+
+Für Toni, der auf der Suche nach einem „rätekommunisten-würdigen“ Tastenhandy ist, kann aber auch die nebenstehende Phone Mall keine Abhilfe schaffen. 
+
+Wir fahren zurück nach Tsim Sha Tsui. Das Hong Kong Museum of Art empfängt uns mit kostenlosem Eintritt. Die aktuelle Ausstellung zu chinesischer Kalligraphie und Zeichnung, *Zwischen Amt und Rückzug – Lebenswege und Kunst der Gelehrten in Ming und Qing* ist durch gute englische Beschriftungen zugänglicher als ihr Pendant in Shanghai, wirkt aber dennoch fern [^3]. Einseitigkeit an Motiv-, Perspektiv- und Farbwahl über ein ganzes Jahrtausend ist komisch. Einen willkommenen Kontrast bieten die drei Kranich-Uhr der Ausstellung *Perceptual and Intellectual—Explorations into Everything and Oneself*. Sie veranschaulicht die Entwicklung von Technologie – von Mechanik und Elektronik über die Digitalisierung bis hin zu KI – und zeigt deren Anwendung in künstlerischen Ausdrucksformen. So entsteht eine sinnliche Schnittstelle von Kunst und Technologie, die spürbar in unsere Gegenwart hineinreicht.
+
+Zum Abendessen landen wir im Fast-Food-Laden *Crusta*. Die Auswahl wirkt fast grotesk: Man wählt zwischen
+
+Hauptspeisen:
+– belegten Tortillas
+– Crustas
+– Curry
+
+Beilage:
+– Süßkartoffelpommes
+– frittierte Kartoffel- und Karottenstiftchen
+
+Salat (serviert in jenen winzigen Bechern, in denen man sonst Dips bekommt):
+– Coleslaw
+– Vinaigrette
+
+Dazu gibt es standardmäßig einen Chickenwing und ein Getränk. Für 18 HKD (etwa 2 €) erhält man die doppelte Portion.
+
+Bis auf die Kartoffelstäbchen bleibt das Ganze allerdings kein Erlebnis. Also machen wir uns auf den Weg zurück zur Unterkunft. Vor uns in der Schlange zum Aufzug steht ein Mann mit nahöstlichen Aussehen, der seinen Regenschirm wie einen Stab mit seinen Einkäufen von der Schulter hängen lässt. Als er merkt, dass wir Deutsch sprechen, wendet er sich mit heller Stimme an uns.
+
+Nach kurzem Gespräch sagt er:
+„Ich war hier, auf den Philippinen und in Bangkok und jetzt wieder hier. Alles in drei Wochen. […] Ich habe nur 800 € gezahlt für alles mit Flug. Phillipien mit den Ladyboys war nicht gut aber Bangkok war super. Für Arschlöcher wie wir … – Wir tauschen einen prüfenden Blick.– Ihr wisst, ihr wollt dort hin, aber da kosten die Flüge sehr viel. Also fliege ich da hin und dann von dort dort hin und dann von dort darüber und dann zurück – und so sieht man alles.“
+
+Wir machen es uns in unseren 8 m² gemütlich, schalten die Klima auf Ice Age und schlummern durch die Nacht. 
+
+
+[^3] In der chinesischen Geschichte standen Gelehrte oft an einem Scheideweg: den Weg in eine offizielle Karriere am kaiserlichen Hof einzuschlagen oder sich in die Natur zurückzuziehen und ein Leben in Abgeschiedenheit zu führen. Diese Entscheidung spiegelte nicht nur unterschiedliche Haltungen zu Karriere und Gesellschaft wider, sondern prägte auch die künstlerischen Ausdrucksformen, die in Malerei und Kalligraphie der Ming- und Qing-Dynastie zu einer Blüte gelangten. Die Ausstellung zeigt Werke aus der Xubaizhai-Sammlung und beleuchtet, wie persönliche Lebenswege, politische Umbrüche und gesellschaftliche Erwartungen die Kunst der Literaten formten. Am Hof existierte ein ausgefeiltes System von Hofmalern, das seit der Song-Zeit stetig weiterentwickelt wurde. Maler aus dem Volk, aber auch europäische Missionare fanden hier Aufnahme. Ihre Werke dienten nicht nur der Dokumentation des Hoflebens, sondern auch politischen Zwecken: Sie verherrlichten den Wohlstand des Reiches oder illustrierten klassische Texte. Besonders in der frühen Qing-Zeit erlangten die Gelehrten des *Nan Shufang*, eines kaiserlichen Studienraums, hohen Einfluss. Sie verbanden politische Klugheit mit literarischem und künstlerischem Schaffen und prägten den höfischen Geschmack nachhaltig. Doch die Umbrüche der Ming-Qing-Transition führten zu einer Krise der Gelehrtenkultur. Viele Literaten suchten nach Wegen, ihr Wissen praktisch in den Dienst der Welt zu stellen, und diskutierten über Staatskunst und Reformen. Gleichzeitig fand in der Kalligraphie ein Umbruch statt: Die sogenannte Stele-Schule brach mit der orthodoxen Tradition und wandte sich Inschriften aus Bronze und Stein zu. Diese Rückkehr zu archaischen Formen war auch ein symbolischer Akt der Abkehr von starrer Hofkultur. Andere Gelehrte entschieden sich bewusst für den Rückzug. Inspiriert von den Vorbildern der Wei- und Jin-Zeit suchten sie in der Natur Zuflucht, pflegten einen einfachen Lebensstil und schufen Malereien, die Paradiese des Rückzugs oder idyllische Landschaften darstellten. Besonders die *Wu-Schule* in Suzhou gilt als ein Zentrum dieser Rückzugsästhetik, die zwischen Sehnsucht, Selbstkultivierung und leiser Kritik an der Gegenwart schwankte. Die Frage nach Loyalität und Verrat beschäftigte viele Literaten in Zeiten des Umbruchs. Während manche als *„zweimal dienende Beamte“* dem neuen Regime dienten und dafür scharfe Kritik ernteten, entschieden sich andere für den Weg des Widerstands. Diese *„Ming-Loyalisten“* lehnten es ab, den neuen Herrschern zu dienen – sei es, indem sie ins Exil gingen, sich zurückzogen oder ihren Protest in Kunst und Literatur ausdrückten. Ihre Werke sind oft geprägt von Nostalgie und Schmerz über das verlorene Reich. Eine besondere Rolle nahmen die sogenannten *„Vier Mönche der frühen Qing“* ein: Hongren, Kuncan, Zhu Da und Shitao. Viele Gelehrte schlossen sich damals aus Überzeugung oder Selbstschutz dem Buddhismus an. Ihre Kunst verband Zen-Motive mit individuellen, radikal neuen Ausdrucksformen. Mit kargen Landschaften, einsamen Vögeln oder Fischen entwickelten sie einen Stil, der zugleich die Weltabgewandtheit der Mönche und eine stille Rebellion gegen die orthodoxe Hofkunst verkörperte. Ihre Werke wurden prägend für nachfolgende Generationen und markieren einen Wendepunkt in der chinesischen Kunstgeschichte.
 
 ## Tag 26 {#tag-26}
 
