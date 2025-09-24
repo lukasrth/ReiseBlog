@@ -4,7 +4,7 @@ draft = false
 date = "2025-09-21"
 image = "Hongkongthumbnail.JPG"
 +++
-**Springe zu:** [Tag 23](#tag-23)
+**Springe zu:** [Tag 23](#tag-23)·[Tag 24](#tag-24)·[Tag 25](#tag-25)·[Tag 26](#tag-26)·[Tag 27](#tag-27)·[Tag 28](#tag-28)
 
 ## Tag 23 {#tag-23}
 
@@ -95,3 +95,15 @@ Nieselregen plätschert sanft auf die Überführungen, durch die wir ewig lange 
 [^2] Wasser: Der Wasserbau hat seine Bedeutung bis heute nicht eingebüßt. In den letzten 50 Jahren wurden rund 250 000 km Dämme und 85 00o Reservoire angelegt, darunter spektakuläre Großprojekte wie der Sanmenxia-Damm am Gelben Fluss und der 2003 fertiggestellte »Drei-Schluchten-Staudamm« am Yangzi, der größte der Welt. Er staut das Wasser des Yangzi auf einer Strecke von 6oo km und soll China jährlich mit über 18 Gigawatt Strom versorgen. Fast ein Fünftel des Energiebedarfs wird in China heute durch Wasserkraft ge-deckt. Doch die jahrtausendealten Probleme sind trotz moderner Technik, trotz Einsatz unermesslicher Arbeitskraft und rücksichtsloser Zwangsumsiedlung von vielen Millionen Menschen nicht gelöst worden. Hunderttausende Chinesen sind im 20. Jahrhundert durch Dammbrüche ums Leben gekommen. Bis heute verheeren jeden Sommer Hochwasser weite Landstriche Südchinas: 1998 starben 4000 Menschen in den Fluten des Yangzi, 2010 beraubte der Fluss wieder Millionen Bauern ihrer Existenz - und was geschieht, wenn der »Drei-Schluchten-Damm« bricht, wagt man sich nicht auszumalen. Zugleich leidet China unter seiner knappen Wasserversorgung - mit jährlich 2300 m3 pro Kopf nur ein Viertel des Weltdurchschnitts - und vor allem unter der ungleichen Verteilung der Vorkommen: im Norden sind es nur 750 m3 pro Kopf. Das Problem wird durch steigenden Wasserverbrauch der Industrie und durch Verschmutzung erheblich verschärft. 2007 meldete die Regierung, dass 30 % der Fischarten im Yangziausgestorben seien; Chemiefabriken leiten tonnenweise Gift in Flüsse, manche sind so stark kontaminiert, dass ihr Wasser nicht einmal für die Industrie nutzbar ist; selbst das Grundwasser sinkt und ist stellenweise nicht trinkbar. Mehr als 300 Millionen Landbewohner haben keinen Zugang zu sauberem Trink-wasser, zwei Drittel der Städte leiden unter Wasserknappheit. Es mutet wie eine Ironie der Geschichte an, dass heute wieder der Kaiserkanal benutzt wird, um die Hauptstadt zu versorgen: nicht mit Getreide, sondern mit Wasser. Zusammen mit einem weiteren Kanal leitet er nach offiziellen Angaben jährlich über 50 Milliarden m3 Wasser vom Yangzi in die Nordchinesische Ebene um. Doch der Klimawandel lässt sogar in Südchina das Wasser knapp werden: 2022 haben anhaltende Dürre und eine Hitzewelle den Wasserpegel des Yangzi um 5-7 m fallen lassen, der riesige Boyang-See ist bis auf ein Drittel seiner Fläche ausgetrocknet. Die Chinesen kämpfen weiter gegen Fluten und Dürren - heute wie vor 3000 Jahren.
 
 ## Tag 25 {#tag-25}
+
+
+
+## Tag 26 {#tag-26}
+
+
+
+## Tag 27 {#tag-27}
+
+
+
+## Tag 28 {#tag-28}
