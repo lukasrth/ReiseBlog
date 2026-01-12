@@ -1,6 +1,6 @@
 baseURL = 'https://suedreise2026.netlify.app/'
 languageCode = 'en-us'
-title = 'Reise Blog'
+title = 'Südreise Blog'
 theme = "pehtheme"
 [markup]
   [markup.goldmark]
