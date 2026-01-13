@@ -1,0 +1,6 @@
+# Key = image filename as it exists in static/gallery/
+# Value = caption shown under/inside lightbox
+
+"day0-01.jpg" = "Ankunft in Shenzhen"
+"day0-02.jpg" = "Abendessen (erstes Streetfood)"
+"Shenzhenthumbnail.jpeg" = "Thumbnail Shenzhen"
