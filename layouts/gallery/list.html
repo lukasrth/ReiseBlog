@@ -11,10 +11,19 @@
     {{ range $files }}
       {{ $ext := lower (path.Ext .Name) }}
       {{ if in (slice ".jpg" ".jpeg" ".png" ".gif" ".webp") $ext }}
+
+        {{/* caption lookup: data/gallery.toml maps filename -> caption */}}
+        {{ $caption := index site.Data.gallery .Name | default .Name }}
+
         <div class="overflow-hidden rounded-xl shadow-md">
-          <a href="{{ printf "/gallery/%s" .Name }}" data-lightbox="reisegalerie" data-title="{{ .Name }}">
-            <img src="{{ printf "/gallery/%s" .Name }}" alt="{{ .Name }}" class="w-full h-auto hover:scale-105 transition duration-300">
+          <a href="{{ printf "/gallery/%s" .Name }}" data-lightbox="reisegalerie" data-title="{{ $caption }}">
+            <img src="{{ printf "/gallery/%s" .Name }}" alt="{{ $caption }}" class="w-full h-auto hover:scale-105 transition duration-300">
           </a>
+
+          {{/* optional: show caption under thumbnail too */}}
+          <div class="p-2 text-sm text-center text-gray-600">
+            {{ $caption }}
+          </div>
         </div>
       {{ end }}
     {{ end }}
