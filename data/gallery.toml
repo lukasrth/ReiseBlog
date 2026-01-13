@@ -1,22 +1,20 @@
 # Key = image filename as it exists in static/gallery/
 # Value = caption shown under/inside lightbox
 
-"IMG_1591.jpg" = "Abschied aus Beijing"
+"IMG_1591.jpg" = "Wudaokou in Beijing"
 
-"IMG_1613.jpg" = "Zwischenstopp im Nirgendwo"
-"IMG_1614.jpg" = "Karstlandschaften in Hunan"
-"IMG_1615.jpg" = "Perlflussdelta"
-"IMG_1616.jpg" = "Paulskirche"
+"IMG_1613.JPG" = "Zwischenstopp im Nirgendwo"
+"IMG_1614.JPG" = "Karstlandschaften in Hunan"
+"IMG_1615.JPG" = "Perlflussdelta"
+"IMG_1616.JPG" = "Paulskirche"
 
 "IMG_1602.jpg" = "Schwebendes Meituan Maskotchen"
-"IMG_1603.jpg" = "Greifarmiger Bandit"
+"IMG_1603_SnapseedCopy.jpg" = "Greifarmiger Bandit"
 
 
 "IMG_1619.jpg" = "Zugtreiben im Shenzhenbei"
 
 "IMG_1625.jpg" = ""
-
-"IMG_1634.jpg" = "Tandembetrieb zwischen Dumplings und Tik-Tok"
 
 "IMG_1636.jpg" = "Gangxia North Station"
 
