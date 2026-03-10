@@ -3,7 +3,7 @@ file = "K11Musea.jpeg"
 caption = "K11 Musea"
 
 [[images]]
-file = "Penisula.jpeg"
+file = "Peninsula.jpeg"
 caption = "Peninsula Hotel"
 
 [[images]]
@@ -20,15 +20,23 @@ caption = "Chunking Mansions"
 
 [[images]]
 file = "DSC00013.JPG"
-caption = " "
+caption = " Tsim Sha Tsui "
 
 [[images]]
 file = "DSC00016.JPG"
-caption = " "
+caption = " Tsim Sha Tsui "
 
 [[images]]
 file = "DSC00019.JPG"
-caption = " "
+caption = " Mong Kok "
+
+[[images]]
+file = "DSC00021.JPG"
+caption = " Mong Kok "
+
+[[images]]
+file = "DSC00030.JPG"
+caption = " Mong Kok "
 
 [[images]]
 file = "DSC00033.JPG"
@@ -44,31 +52,59 @@ caption = "Wong-Tai-Sin Tempel"
 
 [[images]]
 file = "DSC00045.JPG"
-caption = " "
+caption = " Wong Tai Sin "
+
+[[images]]
+file = "DSC00049.JPG"
+caption = " Wong Tai Sin "
 
 [[images]]
 file = "DSC00061.JPG"
-caption = "Chinesischer Garten"
+caption = "Nan Lian Garten"
 
 [[images]]
 file = "DSC00063.JPG"
-caption = " "
+caption = "Nan Lian Garten"
 
 [[images]]
 file = "DSC00069.JPG"
-caption = "Central"
+caption = " Wong Tai Sin "
+
+[[images]]
+file = "DSC00071.JPG"
+caption = " Wong Tai Sin "
 
 [[images]]
 file = "20260115_160709.jpg"
-caption = " "
+caption = "Central - Bankenviertel"
+
+
+[[images]]
+file = "DSC00075.JPG"
+caption = "Central - Bankenviertel"
 
 [[images]]
 file = "DSC00078_b.JPG"
-caption = " "
+caption = " Central - Bankenviertel "
 
 [[images]]
 file = "DSC00081_b.JPG"
-caption = " "
+caption = " Central - Bankenviertel"
+
+[[images]]
+file = "DSC00086.JPG"
+caption = " Central - Am Hang"
+
+
+[[images]]
+file = "DSC00095.JPG"
+caption = " Central - Am Hang"
+
+
+[[images]]
+file = "DSC00097.JPG"
+caption = " Central - Bambusgerüst"
+
 
 [[images]]
 file = "DSC00113.JPG"
@@ -80,11 +116,16 @@ caption = "Peak Tower"
 
 [[images]]
 file = "DSC00133.JPG"
-caption = "Rechts der kantige Bank of China Tower, links der Two International Finance Centre"
+caption = "Rechts der kantige Bank of China Tower, links das bekronte Two International Finance Centre"
 
 [[images]]
 file = "DSC00147.JPG"
 caption = "Taxis!"
+
+
+[[images]]
+file = "DSC000153.JPG"
+caption = " Tsim Sha Tsui "
 
 [[images]]
 file = "Image_20260310095535_14_76.jpg"
