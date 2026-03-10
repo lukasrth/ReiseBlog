@@ -18,10 +18,12 @@
         {{ $title := .title | default $key }}
         {{ $data := index site.Data.gallery $key }}
 
-        <details class="rounded-xl border bg-white overflow-hidden gallery-chapter" data-gallery-key="{{ $key }}">
-          <summary class="cursor-pointer select-none px-5 py-4 font-semibold text-lg flex items-center justify-between">
+          <summary class="cursor-pointer select-none px-6 py-5 font-bold text-2xl flex items-center justify-between bg-zinc-50 hover:bg-zinc-100 transition">
             <span>{{ $title }}</span>
-            <span class="text-sm text-gray-500">öffnen</span>
+            <span class="gallery-toggle text-gray-500 text-3xl leading-none">
+              <span class="when-closed">+</span>
+              <span class="when-open">–</span>
+            </span>
           </summary>
 
           <div class="p-5">
@@ -72,6 +74,17 @@
         details.addEventListener('toggle', () => { if (details.open) load(); });
       });
     </script>
+    <style>
+      details summary::-webkit-details-marker { display: none; }
+
+      /* Default: show + */
+      details .when-open { display: none; }
+      details .when-closed { display: inline; }
+
+      /* When opened: show – */
+      details[open] .when-open { display: inline; }
+      details[open] .when-closed { display: none; }
+    </style>
   {{ end }}
 </main>
 {{ end }}
