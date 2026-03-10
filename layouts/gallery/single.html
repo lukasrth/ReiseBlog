@@ -1,0 +1,42 @@
+{{ define "main" }}
+<main class="container mx-auto my-10">
+  <h1 class="text-3xl md:text-4xl font-bold mb-8 text-center">{{ .Title }}</h1>
+
+  <!-- Lightbox2 CSS + JS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
+
+  {{/* Implicit key = last folder under content/gallery/<key>/_index.md */}}
+  {{ $dir := strings.TrimSuffix "/" .File.Dir }}
+  {{ $key := path.Base $dir }}
+
+  {{ $data := index site.Data.gallery $key }}
+
+  {{ if or (not $data) (not $data.images) }}
+    <p class="text-center text-gray-600">
+      Keine Bilderdaten gefunden. Erwartet wird <code>data/gallery/{{ $key }}.toml</code> mit <code>[[images]]</code>.
+    </p>
+  {{ else }}
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+      {{ range $data.images }}
+        {{ $file := .file }}
+        {{ $caption := .caption | default $file }}
+
+        <div class="overflow-hidden rounded-xl shadow-md">
+          <a href="{{ printf "/gallery/%s/%s" $key $file }}" data-lightbox="{{ $key }}" data-title="{{ $caption }}">
+            <img
+              src="{{ printf "/gallery/%s/%s" $key $file }}"
+              alt="{{ $caption }}"
+              class="w-full h-auto hover:scale-105 transition duration-300"
+              loading="lazy"
+            >
+          </a>
+          <div class="p-2 text-sm text-center text-gray-600">
+            {{ $caption }}
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+</main>
+{{ end }}

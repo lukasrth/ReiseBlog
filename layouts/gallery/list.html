@@ -1,32 +1,41 @@
 {{ define "main" }}
 <main class="container mx-auto my-10">
-  <h1 class="text-3xl md:text-4xl font-bold mb-8 text-center">Galerie</h1>
+  <h1 class="text-3xl md:text-4xl font-bold mb-8 text-center">{{ .Title }}</h1>
 
-  <!-- Lightbox2 CSS + JS -->
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" rel="stylesheet" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
+  {{ $chapters := .Pages.ByTitle }}
 
-  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-    {{ $files := readDir "static/gallery" }}
-    {{ range $files }}
-      {{ $ext := lower (path.Ext .Name) }}
-      {{ if in (slice ".jpg" ".jpeg" ".png" ".gif" ".webp") $ext }}
+  {{ if not (gt (len $chapters) 0) }}
+    <p class="text-center text-gray-600">Noch keine Galerien vorhanden.</p>
+  {{ else }}
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+      {{ range $chapters }}
+        <a href="{{ .RelPermalink }}" class="block overflow-hidden rounded-xl shadow-md hover:shadow-lg transition bg-white">
+          {{ if .Params.image }}
+            {{ if (strings.HasPrefix .Params.image "http") }}
+              <img class="w-full aspect-video object-cover" src="{{ .Params.image }}" alt="{{ .Title }}">
+            {{ else }}
+              {{ with resources.Get .Params.image }}
+                {{ $thumb := .Resize "720x Q85" }}
+                <img class="w-full aspect-video object-cover" src="{{ $thumb.Permalink }}" alt="{{ $.Title }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}">
+              {{ else }}
+                {{/* Fallback if the asset is missing */}}
+                <div class="w-full aspect-video bg-zinc-100"></div>
+              {{ end }}
+            {{ end }}
+          {{ else }}
+            {{/* Fallback if no image param */}}
+            <div class="w-full aspect-video bg-zinc-100"></div>
+          {{ end }}
 
-        {{/* caption lookup: data/gallery.toml maps filename -> caption */}}
-        {{ $caption := index site.Data.gallery .Name | default .Name }}
-
-        <div class="overflow-hidden rounded-xl shadow-md">
-          <a href="{{ printf "/gallery/%s" .Name }}" data-lightbox="reisegalerie" data-title="{{ $caption }}">
-            <img src="{{ printf "/gallery/%s" .Name }}" alt="{{ $caption }}" class="w-full h-auto hover:scale-105 transition duration-300">
-          </a>
-
-          {{/* optional: show caption under thumbnail too */}}
-          <div class="p-2 text-sm text-center text-gray-600">
-            {{ $caption }}
+          <div class="p-5">
+            <h2 class="text-xl font-semibold mb-2">{{ .Title }}</h2>
+            {{ with .Params.description }}
+              <p class="text-sm text-gray-600">{{ . }}</p>
+            {{ end }}
           </div>
-        </div>
+        </a>
       {{ end }}
-    {{ end }}
-  </div>
+    </div>
+  {{ end }}
 </main>
 {{ end }}
