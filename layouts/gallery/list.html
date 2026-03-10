@@ -2,40 +2,76 @@
 <main class="container mx-auto my-10">
   <h1 class="text-3xl md:text-4xl font-bold mb-8 text-center">{{ .Title }}</h1>
 
-  {{ $chapters := .Pages.ByTitle }}
-
-  {{ if not (gt (len $chapters) 0) }}
-    <p class="text-center text-gray-600">Noch keine Galerien vorhanden.</p>
+  {{ $index := site.Data.gallery.index }}
+  {{ if not $index }}
+    <p class="text-center text-gray-600">
+      Fehlende Daten: <code>data/gallery/index.toml</code>
+    </p>
   {{ else }}
-    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-      {{ range $chapters }}
-        <a href="{{ .RelPermalink }}" class="block overflow-hidden rounded-xl shadow-md hover:shadow-lg transition bg-white">
-          {{ if .Params.image }}
-            {{ if (strings.HasPrefix .Params.image "http") }}
-              <img class="w-full aspect-video object-cover" src="{{ .Params.image }}" alt="{{ .Title }}">
-            {{ else }}
-              {{ with resources.Get .Params.image }}
-                {{ $thumb := .Resize "720x Q85" }}
-                <img class="w-full aspect-video object-cover" src="{{ $thumb.Permalink }}" alt="{{ $.Title }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}">
-              {{ else }}
-                {{/* Fallback if the asset is missing */}}
-                <div class="w-full aspect-video bg-zinc-100"></div>
-              {{ end }}
-            {{ end }}
-          {{ else }}
-            {{/* Fallback if no image param */}}
-            <div class="w-full aspect-video bg-zinc-100"></div>
-          {{ end }}
+    <!-- Lightbox2 CSS + JS (loaded once) -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
+
+    <div class="space-y-4">
+      {{ range $index.chapters }}
+        {{ $key := .key }}
+        {{ $title := .title | default $key }}
+        {{ $data := index site.Data.gallery $key }}
+
+        <details class="rounded-xl border bg-white overflow-hidden gallery-chapter" data-gallery-key="{{ $key }}">
+          <summary class="cursor-pointer select-none px-5 py-4 font-semibold text-lg flex items-center justify-between">
+            <span>{{ $title }}</span>
+            <span class="text-sm text-gray-500">öffnen</span>
+          </summary>
 
           <div class="p-5">
-            <h2 class="text-xl font-semibold mb-2">{{ .Title }}</h2>
-            {{ with .Params.description }}
-              <p class="text-sm text-gray-600">{{ . }}</p>
+            {{ if or (not $data) (not $data.images) }}
+              <p class="text-sm text-gray-600">
+                Keine Bilderdaten gefunden für <code>{{ $key }}</code>.
+                Erwartet: <code>data/gallery/{{ $key }}.toml</code> mit <code>[[images]]</code>.
+              </p>
+            {{ else }}
+              <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+                {{ range $data.images }}
+                  {{ $file := .file }}
+                  {{ $caption := .caption | default $file }}
+                  {{ $url := printf "/gallery/%s/%s" $key $file }}
+
+                  <div class="overflow-hidden rounded-xl shadow-md">
+                    <a href="{{ $url }}" data-lightbox="{{ $key }}" data-title="{{ $caption }}">
+                      <!-- data-src prevents any network request until the chapter is opened -->
+                      <img
+                        data-src="{{ $url }}"
+                        alt="{{ $caption }}"
+                        class="w-full h-auto hover:scale-105 transition duration-300 gallery-lazy"
+                        loading="lazy"
+                      >
+                    </a>
+
+                    <div class="p-2 text-sm text-center text-gray-600">
+                      {{ $caption }}
+                    </div>
+                  </div>
+                {{ end }}
+              </div>
             {{ end }}
           </div>
-        </a>
+        </details>
       {{ end }}
     </div>
+
+    <script>
+      // Load images only when a chapter is opened (multiple chapters can be open at once)
+      document.querySelectorAll('details.gallery-chapter').forEach((details) => {
+        const load = () => {
+          details.querySelectorAll('img.gallery-lazy[data-src]').forEach((img) => {
+            if (!img.getAttribute('src')) img.setAttribute('src', img.getAttribute('data-src'));
+          });
+        };
+        if (details.open) load();
+        details.addEventListener('toggle', () => { if (details.open) load(); });
+      });
+    </script>
   {{ end }}
 </main>
 {{ end }}
