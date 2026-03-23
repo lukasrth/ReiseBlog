@@ -16,6 +16,28 @@
       /* Hide the default disclosure triangle */
       details summary::-webkit-details-marker { display: none; }
       details summary::marker { content: ""; }
+
+
+      /* Masonry-like columns */
+      .gallery-columns {
+        column-count: 1;
+        column-gap: 1.5rem; /* similar to gap-6 */
+      }
+      @media (min-width: 640px) {  /* sm */
+        .gallery-columns { column-count: 2; }
+      }
+      @media (min-width: 1024px) { /* lg */
+        .gallery-columns { column-count: 3; }
+      }
+
+      @media (min-width: 1280px) { /* xl */
+        .gallery-columns { column-count: 4; }
+      }
+      .gallery-item {
+        break-inside: avoid;
+        margin-bottom: 1.5rem;
+      }
+
     </style>
 
     <div class="space-y-4">
@@ -46,7 +68,7 @@
                 Erwartet: <code>data/gallery/{{ $key }}.toml</code> mit <code>[[images]]</code>.
               </p>
             {{ else }}
-              <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+              <div class="gallery-columns">
                 {{ range $data.images }}
                   {{ $file := .file }}
                   {{ $caption := .caption | default $file }}
@@ -60,14 +82,14 @@
                     </p>
                   {{ else }}
                     {{/* Thumbnail: keep aspect ratio, no cropping, smaller size + lower quality */}}
-                    {{ $thumb := $orig.Fit "1200x1200 q80" }}
+                    {{ $thumb := $orig.Resize "1024x q95" }}
 
-                    <div class="overflow-hidden rounded-xl shadow-md">
+                    <div class="gallery-item overflow-hidden shadow-md">
                       <a href="{{ $orig.RelPermalink }}" data-lightbox="{{ $key }}" data-title="{{ $caption }}">
                         <img
                           data-src="{{ $thumb.RelPermalink }}"
                           alt="{{ $caption }}"
-                          class="w-full h-auto hover:scale-105 transition duration-300 gallery-lazy"
+                          class="w-full h-auto hover:scale-105 transition duration-300 gallery-lazy rounded-none"
                           loading="lazy"
                           width="{{ $thumb.Width }}"
                           height="{{ $thumb.Height }}"
