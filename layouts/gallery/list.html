@@ -16,28 +16,6 @@
       /* Hide the default disclosure triangle */
       details summary::-webkit-details-marker { display: none; }
       details summary::marker { content: ""; }
-
-
-      /* Masonry-like columns */
-      .gallery-columns {
-        column-count: 1;
-        column-gap: 1.5rem; /* similar to gap-6 */
-      }
-      @media (min-width: 640px) {  /* sm */
-        .gallery-columns { column-count: 2; }
-      }
-      @media (min-width: 1024px) { /* lg */
-        .gallery-columns { column-count: 3; }
-      }
-
-      @media (min-width: 1280px) { /* xl */
-        .gallery-columns { column-count: 4; }
-      }
-      .gallery-item {
-        break-inside: avoid;
-        margin-bottom: 1.5rem;
-      }
-
     </style>
 
     <div class="space-y-4">
@@ -68,7 +46,7 @@
                 Erwartet: <code>data/gallery/{{ $key }}.toml</code> mit <code>[[images]]</code>.
               </p>
             {{ else }}
-              <div class="gallery-columns">
+              <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
                 {{ range $data.images }}
                   {{ $file := .file }}
                   {{ $caption := .caption | default $file }}
@@ -81,10 +59,10 @@
                       Bild nicht gefunden in <code>content/gallery/{{ $key }}/</code>: <code>{{ $file }}</code>
                     </p>
                   {{ else }}
-                    {{/* Thumbnail: keep aspect ratio, no cropping, smaller size + lower quality */}}
-                    {{ $thumb := $orig.Resize "1024x q95" }}
+                    {{/* Auto-orient (fix iPhone EXIF rotation), then resize by width (keeps aspect ratio, no crop) */}}
+                    {{ $thumb := $orig.Filter (images.AutoOrient) | images.Process "resize 1024x q90" }}
 
-                    <div class="gallery-item overflow-hidden shadow-md">
+                    <div class="overflow-hidden">
                       <a href="{{ $orig.RelPermalink }}" data-lightbox="{{ $key }}" data-title="{{ $caption }}">
                         <img
                           data-src="{{ $thumb.RelPermalink }}"
