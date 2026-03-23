@@ -60,7 +60,7 @@
                     </p>
                   {{ else }}
                     {{/* Auto-orient (fix iPhone EXIF rotation), then resize by width (keeps aspect ratio, no crop) */}}
-                    {{ $thumb := $orig.Filter (images.AutoOrient) | images.Process "resize 1024x q90" }}
+                    {{ $thumb := ($orig.Filter (images.AutoOrient)).Resize "1024x q90" }}
 
                     <div class="overflow-hidden">
                       <a href="{{ $orig.RelPermalink }}" data-lightbox="{{ $key }}" data-title="{{ $caption }}">
