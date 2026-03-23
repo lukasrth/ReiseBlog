@@ -19,20 +19,28 @@
     </style>
 
     <div class="space-y-4">
-      {{ range $index.chapters }}
-        {{ $key := .key }}
-        {{ $title := .title | default $key }}
+      {{ range $i, $chapter := $index.chapters }}
+        {{ $key := $chapter.key }}
+        {{ $title := $chapter.title | default $key }}
         {{ $data := index site.Data.gallery $key }}
 
+        {{/* Get the chapter page bundle at content/gallery/<key>/_index.md */}}
+        {{ $chapterPage := site.GetPage (printf "/gallery/%s" $key) }}
+
         <details class="rounded-2xl border bg-white overflow-hidden gallery-chapter" data-gallery-key="{{ $key }}">
-          <!-- "Big button" look -->
           <summary class="cursor-pointer select-none px-6 py-5 font-bold text-2xl bg-zinc-50 hover:bg-zinc-100 transition">
             {{ $title }}
-            <div class="text-sm font-normal text-gray-500 mt-1">Klicken zum Anzeigen</div>
+            {{ if eq $i 0 }}
+              <span class="text-sm font-normal text-gray-500"> (Klicken zum Anzeigen)</span>
+            {{ end }}
           </summary>
 
           <div class="p-5">
-            {{ if or (not $data) (not $data.images) }}
+            {{ if not $chapterPage }}
+              <p class="text-sm text-red-600">
+                Kapitel-Seite nicht gefunden: <code>content/gallery/{{ $key }}/_index.md</code>
+              </p>
+            {{ else if or (not $data) (not $data.images) }}
               <p class="text-sm text-gray-600">
                 Keine Bilderdaten gefunden für <code>{{ $key }}</code>.
                 Erwartet: <code>data/gallery/{{ $key }}.toml</code> mit <code>[[images]]</code>.
@@ -42,22 +50,34 @@
                 {{ range $data.images }}
                   {{ $file := .file }}
                   {{ $caption := .caption | default $file }}
-                  {{ $url := printf "/gallery/%s/%s" $key $file }}
 
-                  <div class="overflow-hidden rounded-xl shadow-md">
-                    <a href="{{ $url }}" data-lightbox="{{ $key }}" data-title="{{ $caption }}">
-                      <!-- Load only when chapter opens -->
-                      <img
-                        data-src="{{ $url }}"
-                        alt="{{ $caption }}"
-                        class="w-full h-auto hover:scale-105 transition duration-300 gallery-lazy"
-                        loading="lazy"
-                      >
-                    </a>
-                    <div class="p-2 text-sm text-center text-gray-600">
-                      {{ $caption }}
+                  {{/* Find original image inside the chapter bundle folder */}}
+                  {{ $orig := $chapterPage.Resources.GetMatch $file }}
+
+                  {{ if not $orig }}
+                    <p class="text-sm text-red-600">
+                      Bild nicht gefunden in <code>content/gallery/{{ $key }}/</code>: <code>{{ $file }}</code>
+                    </p>
+                  {{ else }}
+                    {{/* Thumbnail: keep aspect ratio, no cropping, smaller size + lower quality */}}
+                    {{ $thumb := $orig.Fit "1200x1200 q80" }}
+
+                    <div class="overflow-hidden rounded-xl shadow-md">
+                      <a href="{{ $orig.RelPermalink }}" data-lightbox="{{ $key }}" data-title="{{ $caption }}">
+                        <img
+                          data-src="{{ $thumb.RelPermalink }}"
+                          alt="{{ $caption }}"
+                          class="w-full h-auto hover:scale-105 transition duration-300 gallery-lazy"
+                          loading="lazy"
+                          width="{{ $thumb.Width }}"
+                          height="{{ $thumb.Height }}"
+                        >
+                      </a>
+                      <div class="p-2 text-sm text-center text-gray-600">
+                        {{ $caption }}
+                      </div>
                     </div>
-                  </div>
+                  {{ end }}
                 {{ end }}
               </div>
             {{ end }}
@@ -67,7 +87,7 @@
     </div>
 
     <script>
-      // Load images only when a chapter is opened (multiple chapters can be open at once)
+      // Load thumbnails only when a chapter is opened (multiple chapters can be open at once)
       document.querySelectorAll('details.gallery-chapter').forEach((details) => {
         const load = () => {
           details.querySelectorAll('img.gallery-lazy[data-src]').forEach((img) => {
